@@ -1,7 +1,7 @@
 # YouTube Downloader
 Download Youtube Videos
 
-100% Python
+Made in Python
 
 ## Modules
 ### customtkinter
